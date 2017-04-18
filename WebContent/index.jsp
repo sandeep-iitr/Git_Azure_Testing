@@ -8,7 +8,7 @@
 </head>
 <body>
 
-Hi Sandy, it works
+Hi Sandy, it works now.
 
 </body>
 </html>
